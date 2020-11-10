@@ -1,4 +1,4 @@
-# twitterbot v_0.1
+# Twitter-Bot
 
 Created by Sanjay Sewbhajan
 
